@@ -1,5 +1,6 @@
 # Lyapunov-Exponents
-3 Lyapunov Exponents of Lorenz63 system
+In this code the 3 Lyapunov Exponents of Lorenz63 system are calculated,
+based on Wolf's paper algoritm.
 
 Reference:
 Wolf, A., Swift, J. B., Swinney, H. L., & Vastano, J. A. (1985).
